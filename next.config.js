@@ -2,6 +2,8 @@
 const nextConfig = {
   reactStrictMode: false,
   output: 'export',
+  basePath: '/Jay-S-board',
+  assetPrefix: '/Jay-S-board',
   images: {
     unoptimized: true,
   },
